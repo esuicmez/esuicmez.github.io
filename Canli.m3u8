@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/showfhd.png" group-title="ANA",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/tv8fhd.png" group-title="ANA",TV 8 FHD
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/starfhd.png" group-title="ANA",Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/atvfhd.png" group-title="ANA",Atv
@@ -13,8 +15,6 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/kanal7hd.png" group-title="ANA",Kanal 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/tv8fhd.png" group-title="ANA",TV 8 FHD
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/tv8.5fhd.png" group-title="ANA",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/dmaxhd.png" group-title="ANA",DMAX
@@ -37,29 +37,19 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/atvhd.png" group-title="ANA",Atv 480p
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/halkfhd.png" group-title="ANA",Halk TV [TR]
-https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=2?=.m3u&format=.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/halkhd.png" group-title="ANA",Halk TV [TR]
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/halkhd.png" group-title="ANA",Halk TV 720p [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/halkhd.png" group-title="HABER",Halk TV 720p [TR]
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/atvhd.png" group-title="ANA",Atv 720p
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/kanaldfhd.png" group-title="ANA",.Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/kanal7avr.png" group-title="ANA",Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/kanal7hd.png" group-title="ANA",Kanal 7 720p
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/tv8inthd.png" group-title="ANA",.TV8 INT
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7c32lioncwib&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&format=.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/eurod.png" group-title="ANA",.Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/eurostar.png" group-title="ANA",.Euro Star
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Sterk
 https://zindi.sterk.tv/live/sterk.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="http://medmuzik.tv/wp-content/uploads/2024/06/medlogo-1024x576.png" group-title="KÜRTÇE",Med Muzik (1080p)
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Nuçe
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
@@ -74,49 +64,28 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w24639257
 #EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Waar Tv
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/24hd.png" group-title="HABER",24 [TR]
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/24hd.png" group-title="HABER",24 [TR]
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/24hd.png" group-title="HABER",24 TV [TR]
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/bloomberg.png" group-title="HABER",BLOOMBERG HT [TR]
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/bloomberg.png" group-title="HABER",BLOOMBERG HT [TR]
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/dha.png" group-title="HABER",DHA 1 720p [TR]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/dha.png" group-title="HABER",DHA 2 [TR]
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/dim.png" group-title="TÜRK KARMA",Dim [TR]
-https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/dost.png" group-title="TÜRK KARMA",Dost TV [TR]
-https://dost.stream.emsal.im/tv/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/ekol.png" group-title="TÜRK KARMA",EKOL TV [TR]
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/fbhd.png" group-title="SPOR",FB TV [TR]
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/finest.png" group-title="TÜRK KARMA",Finest TV (288p) [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/finest.png" group-title="MÜZİK",Finest TV (288p) [TR]
 https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/flashhaberhd.png" group-title="HABER",Flash Haber [TR]
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/genc.png" group-title="TÜRK KARMA",GENÇ TV [TR]
-https://spor.kuzeykibris.tv/m3u8/tv_genc.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/genc.png" group-title="TÜRK KARMA",GENÇ TV [TR]
-https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/grt.png" group-title="TÜRK KARMA",GRT (900p) [TR]
-https://tnt-television.com/Geopolis_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/grt.png" group-title="TÜRK KARMA",GRT GAZİANTEP TV [TR]
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/gndtv.png" group-title="TÜRK KARMA",Guneydogu TV (720p) [TR]
-https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/gurme.png" group-title="TÜRK KARMA",GURME TV [TR]
-https://live.euromediacenter.com/gurmetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/gzt.png" group-title="TÜRK KARMA",GZT (1080p) [TR]
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/hbglobalfhd.png" group-title="HABER",HABER GLOBAL [TR]
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/hbturkfhd.png" group-title="HABER",Haber Türk [TR]
@@ -157,17 +126,17 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/tgrtbelgesel.png" group-title="BELGESEL",TGRT Belgesel [TR]
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/tgrtbelgesel.png" group-title="BELGESEL",TGRT Belgesel TV [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/tgrtbelgesel.png" group-title="ANA",TGRT Belgesel TV [TR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/tgrthbhd.png" group-title="HABER",TGRT HABER [TR]
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtbel.png" group-title="BELGESEL",TRT Belgesel [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtbel.png" group-title="ANA",TRT Belgesel [TR]
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtbelhd.png" group-title="BELGESEL",TRT Belgesel 720p [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtbelhd.png" group-title="ANA",TRT Belgesel 720p [TR]
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtcchd.png" group-title="ÇOCUK",TRT Çocuk [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtcchd.png" group-title="ANA",TRT Çocuk [TR]
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtdcc.png" group-title="ÇOCUK",TRT Diyanet Çocuk [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtdcc.png" group-title="ANA",TRT Diyanet Çocuk [TR]
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/trteba.png" group-title="ANA",TRT EBA [TR]
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
