@@ -47,7 +47,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7c32lioncwib&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&format=.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/eurod.png" group-title="ANA",.Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="2. |TR|🇹🇷 KURDİ 🏞️🏢",Sterk
+#EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="2. |KR| KURDİ 🏞️🏢",Sterk
 https://zindi.sterk.tv/live/sterk.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
