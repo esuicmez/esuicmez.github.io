@@ -512,24 +512,25 @@ https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURDSAT NEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDSAT NEWS
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",GELÎ KURDISTAN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",GELÎ KURDISTAN TV
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",WAAR MEDIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",WAAR MEDIA
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",WAAR MEDIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",WAAR MEDIA
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KOMALA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KOMALA TV
 https://live.tvkomala.com/live/komala/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",WELAT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",WELAT TV
 http://stream.welattv.net:1935/welat/tv/.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",WELAT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",WELAT TV
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",JÎN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",JÎN TV
 https://live.jintv.org/medialive/jintv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",CÎHAN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",CÎHAN TV
 http://cihan.dwasat.com/upload/images/cihanhd.m3u8
 
 
