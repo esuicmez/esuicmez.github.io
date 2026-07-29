@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-tr.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://iptvci.free.nf/tv8fhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV 8 FHD
