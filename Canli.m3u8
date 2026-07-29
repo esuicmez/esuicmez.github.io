@@ -63,18 +63,12 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w246392570_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Waar Tv
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/24hd.png" group-title="HABER",24 [TR]
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/dha.png" group-title="HABER",DHA 1 720p [TR]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/dha.png" group-title="HABER",DHA 2 [TR]
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/ekol.png" group-title="TÜRK KARMA",EKOL TV [TR]
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/fbhd.png" group-title="SPOR",FB TV [TR]
