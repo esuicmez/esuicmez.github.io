@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/showfhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/tv8fhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV 8 FHD
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/starfhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Star TV
@@ -69,8 +71,6 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",ATV
