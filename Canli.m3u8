@@ -1,4 +1,49 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL D
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/showhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show [TR]
+https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/showhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show [TR]
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/tele1hd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Tele1 [TR]
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",NOW
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=FWlxOpQaFaB7vun85WXv2A&e=1785228827
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",NOW
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=FWlxOpQaFaB7vun85WXv2A&e=1785228827
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",STAR
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",STAR
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/star1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",SHOW
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",SHOW
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",ATV
+https://turkuaz.tecostream.xyz/atv?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL 7
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",BEYAZ TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/ekol.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",EKOL TV [TR]
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/beyaztvhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Beyaz TV HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/showfhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
@@ -43,50 +88,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7c32lioncwib&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&format=.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/eurod.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",.Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/showhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show [TR]
-https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/showhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show [TR]
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/tele1hd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Tele1 [TR]
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL D
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=FWlxOpQaFaB7vun85WXv2A&e=1785228827
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=FWlxOpQaFaB7vun85WXv2A&e=1785228827
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",STAR
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",STAR
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/star1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",SHOW
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",SHOW
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",ATV
-https://turkuaz.tecostream.xyz/atv?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",KANAL 7
-https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",BEYAZ TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/ekol.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",EKOL TV [TR]
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/beyaztvhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Beyaz TV HD
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
 
 
 
