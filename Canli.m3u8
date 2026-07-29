@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/showfhd.png" group-title="ANA",Show TV
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/showfhd.png" group-title="1. |TR|🇹🇷 ULUSAL GENEL 📺📡",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/tv8fhd.png" group-title="ANA",TV 8 FHD
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
@@ -37,7 +37,7 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/atvhd.png" group-title="ANA",Atv 480p
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/halkhd.png" group-title="HABER",Halk TV 720p [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/halkhd.png" group-title="2. |TR|🇹🇷 HABER ℹ️📰",Halk TV 720p [TR]
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/kanaldfhd.png" group-title="ANA",.Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
@@ -47,7 +47,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7c32lioncwib&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&format=.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/eurod.png" group-title="ANA",.Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Sterk
+#EXTINF:-1,tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="2. |TR|🇹🇷 KURDİ 🏞️🏢",Sterk
 https://zindi.sterk.tv/live/sterk.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="KÜRTÇE",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
@@ -69,11 +69,11 @@ https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/dha.png" group-title="HABER",DHA 2 [TR]
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/ekol.png" group-title="TÜRK KARMA",EKOL TV [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/ekol.png" group-title="4. |TR|🇹🇷 ULUSAL GENEL 📺📡",EKOL TV [TR]
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/fbhd.png" group-title="SPOR",FB TV [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/fbhd.png" group-title="5. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",FB TV [TR]
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/finest.png" group-title="MÜZİK",Finest TV (288p) [TR]
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/finest.png" group-title="3. |TR|🇹🇷 MÜZİK 🎵🎺",Finest TV (288p) [TR]
 https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://iptvci.free.nf/flashhaberhd.png" group-title="HABER",Flash Haber [TR]
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
