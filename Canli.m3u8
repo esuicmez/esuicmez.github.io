@@ -457,60 +457,60 @@ https://live.euromediacenter.com/saglikchannel/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Sterk
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Sterk
 https://zindi.sterk.tv/live/sterk.m3u8
-#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtkurd.png" group-title="5. |KR| KURDİ 🏞️🏢",TRT KURDÎ
+#EXTINF:-1 tvg-logo="https://iptvci.free.nf/trtkurd.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",TRT KURDÎ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Med Muzik (1080p)
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Nuçe
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Nuçe
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Ronahi
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Ronahi
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",KurdSat
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KurdSat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 
-tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Rudaw
+tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Kürdistan Tv
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Kürdistan Tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w246392570_b1700000_sleng_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR| KURDİ 🏞️🏢",Waar Tv
+#EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",Waar Tv
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",ZAROK KURMANÎ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",ZAROK KURMANÎ
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",ZAROK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",ZAROK
 https://iko-live.akamaized.net/ZarokTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",TRT KURDÎ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",TRT KURDÎ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",ZAGROS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",ZAGROS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",ZAGROS TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",RÛDAW TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",RÛDAW TV
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",RÛDAW TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",RÛDAW TV
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",ROJAVA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",ROJAVA TV
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",ZOOMNEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",ZOOMNEWS
 https://live.zoomnews.info/live/Zoom/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",MED MUSIC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",MED MUSIC
 https://iko-live.akamaized.net/MedMusicTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",MEDYA HABER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",MEDYA HABER
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",RONAHI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",RONAHI TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",RONAHI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",RONAHI TV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURD CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURD CHANNEL
 https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURDISTAN 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDISTAN 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURDISTAN 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDISTAN 24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURDISTAN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDISTAN TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR| KURDİ 🏞️🏢",KURDSAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="5. |KR|🇹🇯 KURDİ 🏞️🏢",KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
@@ -555,7 +555,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="6. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="6. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️,HT SPOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="6. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png" group-title="6. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",SIFIR TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sifir_Tv.m3u8
